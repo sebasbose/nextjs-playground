@@ -1,0 +1,56 @@
+[00:02:24.799] Server  ERROR    ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:24.847] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:24.887] Server  ERROR    ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:24.921] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:24.973] Server  ERROR    ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:25.007] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:25.035] Server  ERROR    ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
+[00:02:25.069] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/router-server.js
+- /Users/sebasbose/Desktop/nextjs-playground/node_modules/next/dist/server/lib/start-server.js
